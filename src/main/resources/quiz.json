@@ -1,0 +1,26 @@
+[
+  {
+    "pytanie" : "W którym roku pojawiła się Java?",
+    "a" : 1986,
+    "b" : 1991,
+    "c" : 1995,
+    "d" : 2000,
+    "prawidlowaOdpowiedz" : "c"
+  },
+  {
+    "pytanie" : "Kto stworzył Jave?",
+    "a" : "Bill Gates",
+    "b" : "Steve Jobs",
+    "c" : "James Gosling",
+    "d" : "Dennis Ritchie",
+    "prawidlowaOdpowiedz" : "c"
+  },
+  {
+    "pytanie" : "Co oznacza komenda pull w Gicie",
+    "a" : "Tworzy oddzielną gałąź projektu",
+    "b" : "Pobiera projekt z repozytorium",
+    "c" : "Tworzy nowe repozytorium projektu",
+    "d" : "Wysyła zmiany w projekcie do repozytorium",
+    "prawidlowaOdpowiedz" : "d"
+  }
+]
