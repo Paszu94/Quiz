@@ -1,34 +1,40 @@
 package org.example;
 
 public class Question {
-    private String pytanie;
-    private String a;
-    private String b;
-    private String c;
-    private String d;
-    private String prawidlowaOdpowiedz;
+	private String pytanie;
+	private String a;
+	private String b;
+	private String c;
+	private String d;
+	private String prawidlowaOdpowiedz;
 
-    public String getPytanie() {
-        return pytanie;
-    }
+	public String getPytanie() {
 
-    public String getA() {
-        return a;
-    }
+		return pytanie;
+	}
 
-    public String getB() {
-        return b;
-    }
+	public String getA() {
 
-    public String getC() {
-        return c;
-    }
+		return a;
+	}
 
-    public String getD() {
-        return d;
-    }
+	public String getB() {
 
-    public String getPrawidlowaOdpowiedz() {
-        return prawidlowaOdpowiedz;
-    }
+		return b;
+	}
+
+	public String getC() {
+
+		return c;
+	}
+
+	public String getD() {
+
+		return d;
+	}
+
+	public String getPrawidlowaOdpowiedz() {
+
+		return prawidlowaOdpowiedz;
+	}
 }
