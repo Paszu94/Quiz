@@ -7,14 +7,13 @@ public class Main {
 
 
 		Quiz quiz = new Quiz();
+//		quiz.displayQuestions();
+		quiz.play();
 
-		quiz.displayQuestions();
 
-//        File f = new File("G:/!JAVA 4 projekty w godzine/Quiz/src/main/resources/quiz.json");
-//        if (f.exists())
-//            System.out.println("Exists");
-//        else
-//            System.out.println("Does not Exists");
+
+
+
 	}
 
 }
